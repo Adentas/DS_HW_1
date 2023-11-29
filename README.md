@@ -15,4 +15,32 @@ This repository contains a Jupyter Notebook with solutions to Homework 1 tasks. 
 
 ```bash
 git clone https://github.com/Adentas/DS_HW_1.git
+```
+
+3. Launch Jupyter Notebook and open the Hw1.ipynb file.
+4. Execute each section sequentially, following the instructions and using the provided code cells.
+
+## Environment Requirements
+
+To run this homework, you need to have the following installed:
+
+- Python (recommended version 3.6 or newer)
+- Jupyter Notebook
+- NumPy library
+
+You can install the required library using:
+
+```bash
+pip install numpy
+```
+
+## Author
+
+[Illya Hryhoriev]
+
+Feel free to reach out for additional assistance or clarifications.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
